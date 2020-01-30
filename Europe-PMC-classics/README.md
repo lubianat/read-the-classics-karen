@@ -12,7 +12,7 @@ Let's start lookinf for classic citations at the EuropePMC database.Once more, w
 * Medium classics: at least 300 citations, less than 500  
 * Small classics: at least 150 citations, less than 300
   
-Currently, we have 69 classics that meet the criteria above:  
+Currently, we have 72 classics that meet the criteria above:  
 
 # Big classics
 
@@ -24,12 +24,17 @@ Currently, we have 69 classics that meet the criteria above:
 
 ### 2014
   
+* Jaitin DA et al, [Massively parallel single-cell RNA-seq for marker-free decomposition of tissues into cell types.](https://europepmc.org/article/MED/24531970)  
 * Lavin Y et al, [Tissue-resident macrophage enhancer landscapes are shaped by the local microenvironment.](https://europepmc.org/article/MED/25480296)  
 * Patel AP et al, [Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma.](https://europepmc.org/article/MED/24925914)  
 * Picelli S et al, [Full-length RNA-seq from single cells using Smart-seq2.](https://europepmc.org/article/MED/24385147)  
 * Trapnell C et al, [The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells.](https://europepmc.org/article/MED/24658644)  
 
 # Medium classics
+
+### 2018
+  
+* Butler A et al, [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://europepmc.org/article/MED/29608179)  
 
 ### 2017
   
@@ -52,8 +57,8 @@ Currently, we have 69 classics that meet the criteria above:
   
 * Deng Q et al, [Single-cell RNA-seq reveals dynamic, random monoallelic gene expression in mammalian cells.](https://europepmc.org/article/MED/24408435)  
 * Islam S et al, [Quantitative single-cell RNA-seq with unique molecular identifiers.](https://europepmc.org/article/MED/24363023)  
-* Jaitin DA et al, [Massively parallel single-cell RNA-seq for marker-free decomposition of tissues into cell types.](https://europepmc.org/article/MED/24531970)  
 * Shalek AK et al, [Single-cell RNA-seq reveals dynamic paracrine control of cellular variation.](https://europepmc.org/article/MED/24919153)  
+* Takashima Y et al, [Resetting transcription factor control circuitry toward ground-state pluripotency in human.](https://europepmc.org/article/MED/25215486)  
 * Treutlein B et al, [Reconstructing lineage hierarchies of the distal lung epithelium using single-cell RNA-seq.](https://europepmc.org/article/MED/24739965)  
 * Wu H et al, [Reversing DNA methylation: mechanisms, genomics, and biological functions.](https://europepmc.org/article/MED/24439369)  
 
@@ -79,7 +84,6 @@ Currently, we have 69 classics that meet the criteria above:
 ### 2018
   
 * Afgan E et al, [The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2018 update.](https://europepmc.org/article/MED/29790989)  
-* Butler A et al, [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://europepmc.org/article/MED/29608179)  
 
 ### 2017
   
@@ -101,6 +105,7 @@ Currently, we have 69 classics that meet the criteria above:
 * Shekhar K et al, [Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics.](https://europepmc.org/article/MED/27565351)  
 * Sweeney MD et al, [Pericytes of the neurovascular unit: key functions and signaling pathways.](https://europepmc.org/article/MED/27227366)  
 * Tirosh I et al, [Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma.](https://europepmc.org/article/MED/27806376)  
+* Zheng GX et al, [Haplotyping germline and cancer genomes with high-throughput linked-read sequencing.](https://europepmc.org/article/MED/26829319)[NEW]  
 
 ### 2015
   
@@ -109,6 +114,8 @@ Currently, we have 69 classics that meet the criteria above:
 * Camp JG et al, [Human cerebral organoids recapitulate gene expression programs of fetal neocortex development.](https://europepmc.org/article/MED/26644564)  
 * Cusanovich DA et al, [Multiplex single cell profiling of chromatin accessibility by combinatorial cellular indexing.](https://europepmc.org/article/MED/25953818)  
 * Finak G et al, [MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data.](https://europepmc.org/article/MED/26653891)  
+* Gaublomme JT et al, [Single-Cell Genomics Unveils Critical Regulators of Th17 Cell Pathogenicity.](https://europepmc.org/article/MED/26607794)[NEW]  
+* Lee JW et al, [Deep Sequencing in Microdissected Renal Tubules Identifies Nephron Segment-Specific Transcriptomes.](https://europepmc.org/article/MED/25817355)[NEW]  
 * Pollen AA et al, [Molecular identity of human outer radial glia during cortical development.](https://europepmc.org/article/MED/26406371)  
 * Rotem A et al, [Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state.](https://europepmc.org/article/MED/26458175)  
 * Shin J et al, [Single-Cell RNA-Seq with Waterfall Reveals Molecular Cascades underlying Adult Neurogenesis.](https://europepmc.org/article/MED/26299571)  
@@ -125,7 +132,6 @@ Currently, we have 69 classics that meet the criteria above:
 * Macaulay IC et al, [Single cell genomics: advances and future perspectives.](https://europepmc.org/article/MED/24497842)  
 * Marinov GK et al, [From single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing.](https://europepmc.org/article/MED/24299736)  
 * Saliba AE et al, [Single-cell RNA-seq: advances and future challenges.](https://europepmc.org/article/MED/25053837)  
-* Takashima Y et al, [Resetting transcription factor control circuitry toward ground-state pluripotency in human.](https://europepmc.org/article/MED/25215486)  
 * Theunissen TW et al, [Systematic identification of culture conditions for induction and maintenance of naive human pluripotency.](https://europepmc.org/article/MED/25090446)  
 * Wu AR et al, [Quantitative assessment of single-cell RNA-sequencing methods.](https://europepmc.org/article/MED/24141493)  
 
@@ -140,4 +146,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-January 23, 2020
+January 30, 2020
