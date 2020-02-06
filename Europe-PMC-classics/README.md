@@ -105,7 +105,7 @@ Currently, we have 72 classics that meet the criteria above:
 * Shekhar K et al, [Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics.](https://europepmc.org/article/MED/27565351)  
 * Sweeney MD et al, [Pericytes of the neurovascular unit: key functions and signaling pathways.](https://europepmc.org/article/MED/27227366)  
 * Tirosh I et al, [Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma.](https://europepmc.org/article/MED/27806376)  
-* Zheng GX et al, [Haplotyping germline and cancer genomes with high-throughput linked-read sequencing.](https://europepmc.org/article/MED/26829319)[NEW]  
+* Zheng GX et al, [Haplotyping germline and cancer genomes with high-throughput linked-read sequencing.](https://europepmc.org/article/MED/26829319)  
 
 ### 2015
   
@@ -114,8 +114,8 @@ Currently, we have 72 classics that meet the criteria above:
 * Camp JG et al, [Human cerebral organoids recapitulate gene expression programs of fetal neocortex development.](https://europepmc.org/article/MED/26644564)  
 * Cusanovich DA et al, [Multiplex single cell profiling of chromatin accessibility by combinatorial cellular indexing.](https://europepmc.org/article/MED/25953818)  
 * Finak G et al, [MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data.](https://europepmc.org/article/MED/26653891)  
-* Gaublomme JT et al, [Single-Cell Genomics Unveils Critical Regulators of Th17 Cell Pathogenicity.](https://europepmc.org/article/MED/26607794)[NEW]  
-* Lee JW et al, [Deep Sequencing in Microdissected Renal Tubules Identifies Nephron Segment-Specific Transcriptomes.](https://europepmc.org/article/MED/25817355)[NEW]  
+* Gaublomme JT et al, [Single-Cell Genomics Unveils Critical Regulators of Th17 Cell Pathogenicity.](https://europepmc.org/article/MED/26607794)  
+* Lee JW et al, [Deep Sequencing in Microdissected Renal Tubules Identifies Nephron Segment-Specific Transcriptomes.](https://europepmc.org/article/MED/25817355)  
 * Pollen AA et al, [Molecular identity of human outer radial glia during cortical development.](https://europepmc.org/article/MED/26406371)  
 * Rotem A et al, [Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state.](https://europepmc.org/article/MED/26458175)  
 * Shin J et al, [Single-Cell RNA-Seq with Waterfall Reveals Molecular Cascades underlying Adult Neurogenesis.](https://europepmc.org/article/MED/26299571)  
@@ -146,4 +146,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-January 30, 2020
+February 06, 2020
