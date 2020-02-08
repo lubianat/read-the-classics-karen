@@ -36,7 +36,7 @@ Let's start lookinf for classic citations at the EuropePMC database.Once more, w
 * Medium classics: at least 300 citations, less than 500  
 * Small classics: at least 150 citations, less than 300
   
-Currently, we have 67 classics that meet the criteria above:  
+Currently, we have 72 classics that meet the criteria above:  
 
 # Big classics
 
@@ -55,6 +55,10 @@ Currently, we have 67 classics that meet the criteria above:
 * Trapnell C et al, [The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells.](https://europepmc.org/article/MED/24658644)  
 
 # Medium classics
+
+### 2018
+  
+* Butler A et al, [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://europepmc.org/article/MED/29608179)  
 
 ### 2017
   
@@ -84,6 +88,7 @@ Currently, we have 67 classics that meet the criteria above:
 
 ### 2013
   
+* Brennecke P et al, [Accounting for technical noise in single-cell RNA-seq experiments.](https://europepmc.org/article/MED/24056876)  
 * Hackett JA et al, [Germline DNA demethylation dynamics and imprint erasure through 5-hydroxymethylcytosine.](https://europepmc.org/article/MED/23223451)  
 * Shalek AK et al, [Single-cell transcriptomics reveals bimodality in expression and splicing in immune cells.](https://europepmc.org/article/MED/23685454)  
 * Xue Z et al, [Genetic programs in human and mouse early embryos revealed by single-cell RNA sequencing.](https://europepmc.org/article/MED/23892778)  
@@ -103,7 +108,6 @@ Currently, we have 67 classics that meet the criteria above:
 ### 2018
   
 * Afgan E et al, [The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2018 update.](https://europepmc.org/article/MED/29790989)  
-* Butler A et al, [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://europepmc.org/article/MED/29608179)  
 
 ### 2017
   
@@ -117,12 +121,15 @@ Currently, we have 67 classics that meet the criteria above:
 * Dixit A et al, [Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens.](https://europepmc.org/article/MED/27984732)  
 * Goldmann T et al, [Origin, fate and dynamics of macrophages at central nervous system interfaces.](https://europepmc.org/article/MED/27135602)  
 * Nowakowski TJ et al, [Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells.](https://europepmc.org/article/MED/27038591)  
+* Petropoulos S et al, [Single-Cell RNA-Seq Reveals Lineage and X Chromosome Dynamics in Human Preimplantation Embryos.](https://europepmc.org/article/MED/27062923)  
 * Petryszak R et al, [Expression Atlas update--an integrated database of gene and protein expression in humans, animals and plants.](https://europepmc.org/article/MED/26481351)  
 * Scotti MM et al, [RNA mis-splicing in disease.](https://europepmc.org/article/MED/26593421)  
 * Segerstolpe Å et al, [Single-Cell Transcriptome Profiling of Human Pancreatic Islets in Health and Type 2 Diabetes.](https://europepmc.org/article/MED/27667667)  
 * Sharma U et al, [Biogenesis and function of tRNA fragments during sperm maturation and fertilization in mammals.](https://europepmc.org/article/MED/26721685)  
 * Shekhar K et al, [Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics.](https://europepmc.org/article/MED/27565351)  
+* Sweeney MD et al, [Pericytes of the neurovascular unit: key functions and signaling pathways.](https://europepmc.org/article/MED/27227366)  
 * Tirosh I et al, [Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma.](https://europepmc.org/article/MED/27806376)  
+* Zheng GX et al, [Haplotyping germline and cancer genomes with high-throughput linked-read sequencing.](https://europepmc.org/article/MED/26829319)  
 
 ### 2015
   
@@ -131,6 +138,7 @@ Currently, we have 67 classics that meet the criteria above:
 * Camp JG et al, [Human cerebral organoids recapitulate gene expression programs of fetal neocortex development.](https://europepmc.org/article/MED/26644564)  
 * Cusanovich DA et al, [Multiplex single cell profiling of chromatin accessibility by combinatorial cellular indexing.](https://europepmc.org/article/MED/25953818)  
 * Finak G et al, [MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data.](https://europepmc.org/article/MED/26653891)  
+* Gaublomme JT et al, [Single-Cell Genomics Unveils Critical Regulators of Th17 Cell Pathogenicity.](https://europepmc.org/article/MED/26607794)  
 * Lee JW et al, [Deep Sequencing in Microdissected Renal Tubules Identifies Nephron Segment-Specific Transcriptomes.](https://europepmc.org/article/MED/25817355)  
 * Pollen AA et al, [Molecular identity of human outer radial glia during cortical development.](https://europepmc.org/article/MED/26406371)  
 * Rotem A et al, [Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state.](https://europepmc.org/article/MED/26458175)  
@@ -140,6 +148,7 @@ Currently, we have 67 classics that meet the criteria above:
 
 ### 2014
   
+* Benayoun BA et al, [H3K4me3 breadth is linked to cell identity and transcriptional consistency.](https://europepmc.org/article/MED/25083876)  
 * Bendall SC et al, [Single-cell trajectory detection uncovers progression and regulatory coordination in human B cell development.](https://europepmc.org/article/MED/24766814)  
 * Hogan BL et al, [Repair and regeneration of the respiratory system: complexity, plasticity, and mechanisms of lung stem cell function.](https://europepmc.org/article/MED/25105578)  
 * Kharchenko PV et al, [Bayesian approach to single-cell differential expression analysis.](https://europepmc.org/article/MED/24836921)  
@@ -149,10 +158,6 @@ Currently, we have 67 classics that meet the criteria above:
 * Saliba AE et al, [Single-cell RNA-seq: advances and future challenges.](https://europepmc.org/article/MED/25053837)  
 * Theunissen TW et al, [Systematic identification of culture conditions for induction and maintenance of naive human pluripotency.](https://europepmc.org/article/MED/25090446)  
 * Wu AR et al, [Quantitative assessment of single-cell RNA-sequencing methods.](https://europepmc.org/article/MED/24141493)  
-
-### 2013
-  
-* Brennecke P et al, [Accounting for technical noise in single-cell RNA-seq experiments.](https://europepmc.org/article/MED/24056876)  
 
 ### 2010
   
@@ -165,4 +170,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-January 02, 2020
+February 06, 2020
