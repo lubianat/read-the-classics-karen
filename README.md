@@ -1,6 +1,5 @@
 # read-the-classics-karen
-Classic citations for single-cell RNA-seq oriented people. Famous datasets, R packages, python modules and so on. 
-
+Classic citations for single-cell RNA-seq oriented people
 Inspired by awesome single-cell RNA seq lists such as: 
 * https://github.com/seandavi/awesome-single-cell
 * https://github.com/crazyhottommy/RNA-seq-analysis#single-cell-rna-seq
