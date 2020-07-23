@@ -107,7 +107,7 @@ Currently, we have 79 classics that meet the criteria above:
   
 * Dixit A et al, [Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens.](https://europepmc.org/article/MED/27984732)  
 * Goldmann T et al, [Origin, fate and dynamics of macrophages at central nervous system interfaces.](https://europepmc.org/article/MED/27135602)  
-* Marques S et al, [Oligodendrocyte heterogeneity in the mouse juvenile and adult central nervous system.](https://europepmc.org/article/MED/27284195)[NEW]  
+* Marques S et al, [Oligodendrocyte heterogeneity in the mouse juvenile and adult central nervous system.](https://europepmc.org/article/MED/27284195)  
 * Nowakowski TJ et al, [Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells.](https://europepmc.org/article/MED/27038591)  
 * Petropoulos S et al, [Single-Cell RNA-Seq Reveals Lineage and X Chromosome Dynamics in Human Preimplantation Embryos.](https://europepmc.org/article/MED/27062923)  
 * Petryszak R et al, [Expression Atlas update--an integrated database of gene and protein expression in humans, animals and plants.](https://europepmc.org/article/MED/26481351)  
@@ -122,20 +122,20 @@ Currently, we have 79 classics that meet the criteria above:
 ### 2015
   
 * Alizadeh AA et al, [Toward understanding and exploiting tumor heterogeneity.](https://europepmc.org/article/MED/26248267)  
-* Anahtar MN et al, [Cervicovaginal bacteria are a major modulator of host inflammatory responses in the female genital tract.](https://europepmc.org/article/MED/25992865)[NEW]  
+* Anahtar MN et al, [Cervicovaginal bacteria are a major modulator of host inflammatory responses in the female genital tract.](https://europepmc.org/article/MED/25992865)  
 * Bond AM et al, [Adult Mammalian Neural Stem Cells and Neurogenesis: Five Decades Later.](https://europepmc.org/article/MED/26431181)  
 * Camp JG et al, [Human cerebral organoids recapitulate gene expression programs of fetal neocortex development.](https://europepmc.org/article/MED/26644564)  
 * Cusanovich DA et al, [Multiplex single cell profiling of chromatin accessibility by combinatorial cellular indexing.](https://europepmc.org/article/MED/25953818)  
 * Finak G et al, [MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data.](https://europepmc.org/article/MED/26653891)  
 * Gaublomme JT et al, [Single-Cell Genomics Unveils Critical Regulators of Th17 Cell Pathogenicity.](https://europepmc.org/article/MED/26607794)  
-* Grow EJ et al, [Intrinsic retroviral reactivation in human preimplantation embryos and pluripotent cells.](https://europepmc.org/article/MED/25896322)[NEW]  
+* Grow EJ et al, [Intrinsic retroviral reactivation in human preimplantation embryos and pluripotent cells.](https://europepmc.org/article/MED/25896322)  
 * Lee JW et al, [Deep Sequencing in Microdissected Renal Tubules Identifies Nephron Segment-Specific Transcriptomes.](https://europepmc.org/article/MED/25817355)  
 * Pollen AA et al, [Molecular identity of human outer radial glia during cortical development.](https://europepmc.org/article/MED/26406371)  
 * Rotem A et al, [Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state.](https://europepmc.org/article/MED/26458175)  
 * Shin J et al, [Single-Cell RNA-Seq with Waterfall Reveals Molecular Cascades underlying Adult Neurogenesis.](https://europepmc.org/article/MED/26299571)  
 * Vaughan AE et al, [Lineage-negative progenitors mobilize to regenerate lung epithelium after major injury.](https://europepmc.org/article/MED/25533958)  
-* Wang Y et al, [Advances and applications of single-cell sequencing technologies.](https://europepmc.org/article/MED/26000845)[NEW]  
-* Wilson NK et al, [Combined Single-Cell Functional and Gene Expression Analysis Resolves Heterogeneity within Stem Cell Populations.](https://europepmc.org/article/MED/26004780)[NEW]  
+* Wang Y et al, [Advances and applications of single-cell sequencing technologies.](https://europepmc.org/article/MED/26000845)  
+* Wilson NK et al, [Combined Single-Cell Functional and Gene Expression Analysis Resolves Heterogeneity within Stem Cell Populations.](https://europepmc.org/article/MED/26004780)  
 
 ### 2014
   
@@ -145,11 +145,11 @@ Currently, we have 79 classics that meet the criteria above:
 * Macaulay IC et al, [Single cell genomics: advances and future perspectives.](https://europepmc.org/article/MED/24497842)  
 * Marinov GK et al, [From single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing.](https://europepmc.org/article/MED/24299736)  
 * Saliba AE et al, [Single-cell RNA-seq: advances and future challenges.](https://europepmc.org/article/MED/25053837)  
-* Ting DT et al, [Single-cell RNA sequencing identifies extracellular matrix gene expression by pancreatic circulating tumor cells.](https://europepmc.org/article/MED/25242334)[NEW]  
+* Ting DT et al, [Single-cell RNA sequencing identifies extracellular matrix gene expression by pancreatic circulating tumor cells.](https://europepmc.org/article/MED/25242334)  
 
 ### 2013
   
-* Guo H et al, [Single-cell methylome landscapes of mouse embryonic stem cells and early embryos analyzed using reduced representation bisulfite sequencing.](https://europepmc.org/article/MED/24179143)[NEW]  
+* Guo H et al, [Single-cell methylome landscapes of mouse embryonic stem cells and early embryos analyzed using reduced representation bisulfite sequencing.](https://europepmc.org/article/MED/24179143)  
 
 ### 2010
   
@@ -162,4 +162,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-July 22, 2020
+July 23, 2020
