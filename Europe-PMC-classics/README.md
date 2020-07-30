@@ -12,13 +12,21 @@ Let's start lookinf for classic citations at the EuropePMC database.Once more, w
 * Medium classics: at least 300 citations, less than 500  
 * Small classics: at least 150 citations, less than 300
   
-Currently, we have 79 classics that meet the criteria above:  
+Currently, we have 88 classics that meet the criteria above:  
 
 # Big classics
 
 ### 2018
   
 * Butler A et al, [Integrating single-cell transcriptomic data across different conditions, technologies, and species.](https://europepmc.org/article/MED/29608179)  
+
+### 2017
+  
+* Zheng GX et al, [Massively parallel digital transcriptional profiling of single cells.](https://europepmc.org/article/MED/28091601)  
+
+### 2016
+  
+* Tirosh I et al, [Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq.](https://europepmc.org/article/MED/27124452)  
 
 ### 2015
   
@@ -50,13 +58,11 @@ Currently, we have 79 classics that meet the criteria above:
   
 * Keren-Shaul H et al, [A Unique Microglia Type Associated with Restricting Development of Alzheimer's Disease.](https://europepmc.org/article/MED/28602351)  
 * Villani AC et al, [Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors.](https://europepmc.org/article/MED/28428369)  
-* Zheng GX et al, [Massively parallel digital transcriptional profiling of single cells.](https://europepmc.org/article/MED/28091601)  
 
 ### 2016
   
 * Conesa A et al, [A survey of best practices for RNA-seq data analysis.](https://europepmc.org/article/MED/26813401)  
 * Tasic B et al, [Adult mouse cortical cell taxonomy revealed by single cell transcriptomics.](https://europepmc.org/article/MED/26727548)  
-* Tirosh I et al, [Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq.](https://europepmc.org/article/MED/27124452)  
 
 ### 2015
   
@@ -99,20 +105,29 @@ Currently, we have 79 classics that meet the criteria above:
 
 ### 2017
   
+* Cao J et al, [Comprehensive single-cell transcriptional profiling of a multicellular organism.](https://europepmc.org/article/MED/28818938)[NEW]  
 * Kiselev VY et al, [SC3: consensus clustering of single-cell RNA-seq data.](https://europepmc.org/article/MED/28346451)  
+* Lavin Y et al, [Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses.](https://europepmc.org/article/MED/28475900)[NEW]  
+* McCarthy DJ et al, [Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R.](https://europepmc.org/article/MED/28088763)[NEW]  
+* Puram SV et al, [Single-Cell Transcriptomic Analysis of Primary and Metastatic Tumor Ecosystems in Head and Neck Cancer.](https://europepmc.org/article/MED/29198524)[NEW]  
 * Qiu X et al, [Reversed graph embedding resolves complex single-cell trajectories.](https://europepmc.org/article/MED/28825705)  
+* Regev A et al, [The Human Cell Atlas.](https://europepmc.org/article/MED/29206104)[NEW]  
 * Ziegenhain C et al, [Comparative Analysis of Single-Cell RNA Sequencing Methods.](https://europepmc.org/article/MED/28212749)  
 
 ### 2016
   
+* Adamson B et al, [A Multiplexed Single-Cell CRISPR Screening Platform Enables Systematic Dissection of the Unfolded Protein Response.](https://europepmc.org/article/MED/27984733)[NEW]  
 * Dixit A et al, [Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens.](https://europepmc.org/article/MED/27984732)  
 * Goldmann T et al, [Origin, fate and dynamics of macrophages at central nervous system interfaces.](https://europepmc.org/article/MED/27135602)  
+* Hashimshony T et al, [CEL-Seq2: sensitive highly-multiplexed single-cell RNA-Seq.](https://europepmc.org/article/MED/27121950)[NEW]  
+* Lun AT et al, [Pooling across cells to normalize single-cell RNA sequencing data with many zero counts.](https://europepmc.org/article/MED/27122128)[NEW]  
 * Marques S et al, [Oligodendrocyte heterogeneity in the mouse juvenile and adult central nervous system.](https://europepmc.org/article/MED/27284195)  
 * Nowakowski TJ et al, [Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells.](https://europepmc.org/article/MED/27038591)  
 * Petropoulos S et al, [Single-Cell RNA-Seq Reveals Lineage and X Chromosome Dynamics in Human Preimplantation Embryos.](https://europepmc.org/article/MED/27062923)  
 * Petryszak R et al, [Expression Atlas update--an integrated database of gene and protein expression in humans, animals and plants.](https://europepmc.org/article/MED/26481351)  
 * Scotti MM et al, [RNA mis-splicing in disease.](https://europepmc.org/article/MED/26593421)  
 * Segerstolpe Å et al, [Single-Cell Transcriptome Profiling of Human Pancreatic Islets in Health and Type 2 Diabetes.](https://europepmc.org/article/MED/27667667)  
+* Setty M et al, [Wishbone identifies bifurcating developmental trajectories from single-cell data.](https://europepmc.org/article/MED/27136076)[NEW]  
 * Sharma U et al, [Biogenesis and function of tRNA fragments during sperm maturation and fertilization in mammals.](https://europepmc.org/article/MED/26721685)  
 * Shekhar K et al, [Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics.](https://europepmc.org/article/MED/27565351)  
 * Sweeney MD et al, [Pericytes of the neurovascular unit: key functions and signaling pathways.](https://europepmc.org/article/MED/27227366)  
@@ -153,8 +168,8 @@ Currently, we have 79 classics that meet the criteria above:
 
 ### 2010
   
-* Tang F et al, [Tracing the derivation of embryonic stem cells from the inner cell mass by single-cell RNA-Seq analysis.](https://europepmc.org/article/MED/20452321)  
 * Tang F et al, [RNA-Seq analysis to capture the transcriptome landscape of a single cell.](https://europepmc.org/article/MED/20203668)  
+* Tang F et al, [Tracing the derivation of embryonic stem cells from the inner cell mass by single-cell RNA-Seq analysis.](https://europepmc.org/article/MED/20452321)  
 
 # Contributions
   
@@ -162,4 +177,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-July 23, 2020
+July 30, 2020
