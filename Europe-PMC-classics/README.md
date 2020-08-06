@@ -12,7 +12,7 @@ Let's start lookinf for classic citations at the EuropePMC database.Once more, w
 * Medium classics: at least 300 citations, less than 500  
 * Small classics: at least 150 citations, less than 300
   
-Currently, we have 88 classics that meet the criteria above:  
+Currently, we have 90 classics that meet the criteria above:  
 
 # Big classics
 
@@ -105,29 +105,31 @@ Currently, we have 88 classics that meet the criteria above:
 
 ### 2017
   
-* Cao J et al, [Comprehensive single-cell transcriptional profiling of a multicellular organism.](https://europepmc.org/article/MED/28818938)[NEW]  
+* Birey F et al, [Assembly of functionally integrated human forebrain spheroids.](https://europepmc.org/article/MED/28445465)[NEW]  
+* Cao J et al, [Comprehensive single-cell transcriptional profiling of a multicellular organism.](https://europepmc.org/article/MED/28818938)  
 * Kiselev VY et al, [SC3: consensus clustering of single-cell RNA-seq data.](https://europepmc.org/article/MED/28346451)  
-* Lavin Y et al, [Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses.](https://europepmc.org/article/MED/28475900)[NEW]  
-* McCarthy DJ et al, [Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R.](https://europepmc.org/article/MED/28088763)[NEW]  
-* Puram SV et al, [Single-Cell Transcriptomic Analysis of Primary and Metastatic Tumor Ecosystems in Head and Neck Cancer.](https://europepmc.org/article/MED/29198524)[NEW]  
+* Lavin Y et al, [Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses.](https://europepmc.org/article/MED/28475900)  
+* McCarthy DJ et al, [Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R.](https://europepmc.org/article/MED/28088763)  
+* Puram SV et al, [Single-Cell Transcriptomic Analysis of Primary and Metastatic Tumor Ecosystems in Head and Neck Cancer.](https://europepmc.org/article/MED/29198524)  
 * Qiu X et al, [Reversed graph embedding resolves complex single-cell trajectories.](https://europepmc.org/article/MED/28825705)  
-* Regev A et al, [The Human Cell Atlas.](https://europepmc.org/article/MED/29206104)[NEW]  
+* Regev A et al, [The Human Cell Atlas.](https://europepmc.org/article/MED/29206104)  
 * Ziegenhain C et al, [Comparative Analysis of Single-Cell RNA Sequencing Methods.](https://europepmc.org/article/MED/28212749)  
 
 ### 2016
   
-* Adamson B et al, [A Multiplexed Single-Cell CRISPR Screening Platform Enables Systematic Dissection of the Unfolded Protein Response.](https://europepmc.org/article/MED/27984733)[NEW]  
+* Adamson B et al, [A Multiplexed Single-Cell CRISPR Screening Platform Enables Systematic Dissection of the Unfolded Protein Response.](https://europepmc.org/article/MED/27984733)  
 * Dixit A et al, [Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens.](https://europepmc.org/article/MED/27984732)  
 * Goldmann T et al, [Origin, fate and dynamics of macrophages at central nervous system interfaces.](https://europepmc.org/article/MED/27135602)  
-* Hashimshony T et al, [CEL-Seq2: sensitive highly-multiplexed single-cell RNA-Seq.](https://europepmc.org/article/MED/27121950)[NEW]  
-* Lun AT et al, [Pooling across cells to normalize single-cell RNA sequencing data with many zero counts.](https://europepmc.org/article/MED/27122128)[NEW]  
+* Hashimshony T et al, [CEL-Seq2: sensitive highly-multiplexed single-cell RNA-Seq.](https://europepmc.org/article/MED/27121950)  
+* Lun AT et al, [Pooling across cells to normalize single-cell RNA sequencing data with many zero counts.](https://europepmc.org/article/MED/27122128)  
 * Marques S et al, [Oligodendrocyte heterogeneity in the mouse juvenile and adult central nervous system.](https://europepmc.org/article/MED/27284195)  
+* Mass E et al, [Specification of tissue-resident macrophages during organogenesis.](https://europepmc.org/article/MED/27492475)[NEW]  
 * Nowakowski TJ et al, [Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells.](https://europepmc.org/article/MED/27038591)  
 * Petropoulos S et al, [Single-Cell RNA-Seq Reveals Lineage and X Chromosome Dynamics in Human Preimplantation Embryos.](https://europepmc.org/article/MED/27062923)  
 * Petryszak R et al, [Expression Atlas update--an integrated database of gene and protein expression in humans, animals and plants.](https://europepmc.org/article/MED/26481351)  
 * Scotti MM et al, [RNA mis-splicing in disease.](https://europepmc.org/article/MED/26593421)  
 * Segerstolpe Å et al, [Single-Cell Transcriptome Profiling of Human Pancreatic Islets in Health and Type 2 Diabetes.](https://europepmc.org/article/MED/27667667)  
-* Setty M et al, [Wishbone identifies bifurcating developmental trajectories from single-cell data.](https://europepmc.org/article/MED/27136076)[NEW]  
+* Setty M et al, [Wishbone identifies bifurcating developmental trajectories from single-cell data.](https://europepmc.org/article/MED/27136076)  
 * Sharma U et al, [Biogenesis and function of tRNA fragments during sperm maturation and fertilization in mammals.](https://europepmc.org/article/MED/26721685)  
 * Shekhar K et al, [Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics.](https://europepmc.org/article/MED/27565351)  
 * Sweeney MD et al, [Pericytes of the neurovascular unit: key functions and signaling pathways.](https://europepmc.org/article/MED/27227366)  
@@ -177,4 +179,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-July 30, 2020
+August 06, 2020
