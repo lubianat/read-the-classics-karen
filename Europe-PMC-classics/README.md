@@ -12,7 +12,7 @@ Let's start lookinf for classic citations at the EuropePMC database.Once more, w
 * Medium classics: at least 300 citations, less than 500  
 * Small classics: at least 150 citations, less than 300
   
-Currently, we have 94 classics that meet the criteria above:  
+Currently, we have 99 classics that meet the criteria above:  
 
 # Big classics
 
@@ -54,6 +54,10 @@ Currently, we have 94 classics that meet the criteria above:
 * Ramsköld D et al, [Full-length mRNA-Seq from single-cell levels of RNA and individual circulating tumor cells.](https://europepmc.org/article/MED/22820318)  
 
 # Medium classics
+
+### 2018
+  
+* Afgan E et al, [The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2018 update.](https://europepmc.org/article/MED/29790989)  
 
 ### 2017
   
@@ -99,34 +103,44 @@ Currently, we have 94 classics that meet the criteria above:
 
 # Small classics
 
+### 2020
+  
+* Xu H et al, [High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.](https://europepmc.org/article/MED/32094336)[NEW]  
+
+### 2019
+  
+* Stuart T et al, [Comprehensive Integration of Single-Cell Data.](https://europepmc.org/article/MED/31178118)[NEW]  
+
 ### 2018
   
-* Afgan E et al, [The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2018 update.](https://europepmc.org/article/MED/29790989)  
+* Zeisel A et al, [Molecular Architecture of the Mouse Nervous System.](https://europepmc.org/article/MED/30096314)[NEW]  
 
 ### 2017
   
 * Birey F et al, [Assembly of functionally integrated human forebrain spheroids.](https://europepmc.org/article/MED/28445465)  
 * Cao J et al, [Comprehensive single-cell transcriptional profiling of a multicellular organism.](https://europepmc.org/article/MED/28818938)  
+* Hulsmans M et al, [Macrophages Facilitate Electrical Conduction in the Heart.](https://europepmc.org/article/MED/28431249)[NEW]  
 * Kiselev VY et al, [SC3: consensus clustering of single-cell RNA-seq data.](https://europepmc.org/article/MED/28346451)  
 * Lavin Y et al, [Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses.](https://europepmc.org/article/MED/28475900)  
 * McCarthy DJ et al, [Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R.](https://europepmc.org/article/MED/28088763)  
 * Puram SV et al, [Single-Cell Transcriptomic Analysis of Primary and Metastatic Tumor Ecosystems in Head and Neck Cancer.](https://europepmc.org/article/MED/29198524)  
 * Qiu X et al, [Reversed graph embedding resolves complex single-cell trajectories.](https://europepmc.org/article/MED/28825705)  
-* Qiu X et al, [Single-cell mRNA quantification and differential analysis with Census.](https://europepmc.org/article/MED/28114287)[NEW]  
+* Qiu X et al, [Single-cell mRNA quantification and differential analysis with Census.](https://europepmc.org/article/MED/28114287)  
 * Regev A et al, [The Human Cell Atlas.](https://europepmc.org/article/MED/29206104)  
+* Stoeckius M et al, [Simultaneous epitope and transcriptome measurement in single cells.](https://europepmc.org/article/MED/28759029)[NEW]  
 * Ziegenhain C et al, [Comparative Analysis of Single-Cell RNA Sequencing Methods.](https://europepmc.org/article/MED/28212749)  
 
 ### 2016
   
 * Adamson B et al, [A Multiplexed Single-Cell CRISPR Screening Platform Enables Systematic Dissection of the Unfolded Protein Response.](https://europepmc.org/article/MED/27984733)  
-* Baron M et al, [A Single-Cell Transcriptomic Map of the Human and Mouse Pancreas Reveals Inter- and Intra-cell Population Structure.](https://europepmc.org/article/MED/27667365)[NEW]  
+* Baron M et al, [A Single-Cell Transcriptomic Map of the Human and Mouse Pancreas Reveals Inter- and Intra-cell Population Structure.](https://europepmc.org/article/MED/27667365)  
 * Dixit A et al, [Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens.](https://europepmc.org/article/MED/27984732)  
 * Goldmann T et al, [Origin, fate and dynamics of macrophages at central nervous system interfaces.](https://europepmc.org/article/MED/27135602)  
 * Hashimshony T et al, [CEL-Seq2: sensitive highly-multiplexed single-cell RNA-Seq.](https://europepmc.org/article/MED/27121950)  
 * Lun AT et al, [Pooling across cells to normalize single-cell RNA sequencing data with many zero counts.](https://europepmc.org/article/MED/27122128)  
 * Marques S et al, [Oligodendrocyte heterogeneity in the mouse juvenile and adult central nervous system.](https://europepmc.org/article/MED/27284195)  
 * Mass E et al, [Specification of tissue-resident macrophages during organogenesis.](https://europepmc.org/article/MED/27492475)  
-* McKenna A et al, [Whole-organism lineage tracing by combinatorial and cumulative genome editing.](https://europepmc.org/article/MED/27229144)[NEW]  
+* McKenna A et al, [Whole-organism lineage tracing by combinatorial and cumulative genome editing.](https://europepmc.org/article/MED/27229144)  
 * Nowakowski TJ et al, [Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells.](https://europepmc.org/article/MED/27038591)  
 * Petropoulos S et al, [Single-Cell RNA-Seq Reveals Lineage and X Chromosome Dynamics in Human Preimplantation Embryos.](https://europepmc.org/article/MED/27062923)  
 * Petryszak R et al, [Expression Atlas update--an integrated database of gene and protein expression in humans, animals and plants.](https://europepmc.org/article/MED/26481351)  
@@ -153,7 +167,7 @@ Currently, we have 94 classics that meet the criteria above:
 * Pollen AA et al, [Molecular identity of human outer radial glia during cortical development.](https://europepmc.org/article/MED/26406371)  
 * Rotem A et al, [Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state.](https://europepmc.org/article/MED/26458175)  
 * Shin J et al, [Single-Cell RNA-Seq with Waterfall Reveals Molecular Cascades underlying Adult Neurogenesis.](https://europepmc.org/article/MED/26299571)  
-* Trapnell C. et al, [Defining cell types and states with single-cell genomics.](https://europepmc.org/article/MED/26430159)[NEW]  
+* Trapnell C. et al, [Defining cell types and states with single-cell genomics.](https://europepmc.org/article/MED/26430159)  
 * Vaughan AE et al, [Lineage-negative progenitors mobilize to regenerate lung epithelium after major injury.](https://europepmc.org/article/MED/25533958)  
 * Wang Y et al, [Advances and applications of single-cell sequencing technologies.](https://europepmc.org/article/MED/26000845)  
 * Wilson NK et al, [Combined Single-Cell Functional and Gene Expression Analysis Resolves Heterogeneity within Stem Cell Populations.](https://europepmc.org/article/MED/26004780)  
@@ -183,4 +197,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-August 13, 2020
+August 20, 2020
