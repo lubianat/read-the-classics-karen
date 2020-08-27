@@ -105,21 +105,21 @@ Currently, we have 99 classics that meet the criteria above:
 
 ### 2020
   
-* Xu H et al, [High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.](https://europepmc.org/article/MED/32094336)[NEW]  
+* Xu H et al, [High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa.](https://europepmc.org/article/MED/32094336)  
 
 ### 2019
   
-* Stuart T et al, [Comprehensive Integration of Single-Cell Data.](https://europepmc.org/article/MED/31178118)[NEW]  
+* Stuart T et al, [Comprehensive Integration of Single-Cell Data.](https://europepmc.org/article/MED/31178118)  
 
 ### 2018
   
-* Zeisel A et al, [Molecular Architecture of the Mouse Nervous System.](https://europepmc.org/article/MED/30096314)[NEW]  
+* Zeisel A et al, [Molecular Architecture of the Mouse Nervous System.](https://europepmc.org/article/MED/30096314)  
 
 ### 2017
   
 * Birey F et al, [Assembly of functionally integrated human forebrain spheroids.](https://europepmc.org/article/MED/28445465)  
 * Cao J et al, [Comprehensive single-cell transcriptional profiling of a multicellular organism.](https://europepmc.org/article/MED/28818938)  
-* Hulsmans M et al, [Macrophages Facilitate Electrical Conduction in the Heart.](https://europepmc.org/article/MED/28431249)[NEW]  
+* Hulsmans M et al, [Macrophages Facilitate Electrical Conduction in the Heart.](https://europepmc.org/article/MED/28431249)  
 * Kiselev VY et al, [SC3: consensus clustering of single-cell RNA-seq data.](https://europepmc.org/article/MED/28346451)  
 * Lavin Y et al, [Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses.](https://europepmc.org/article/MED/28475900)  
 * McCarthy DJ et al, [Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R.](https://europepmc.org/article/MED/28088763)  
@@ -127,7 +127,7 @@ Currently, we have 99 classics that meet the criteria above:
 * Qiu X et al, [Reversed graph embedding resolves complex single-cell trajectories.](https://europepmc.org/article/MED/28825705)  
 * Qiu X et al, [Single-cell mRNA quantification and differential analysis with Census.](https://europepmc.org/article/MED/28114287)  
 * Regev A et al, [The Human Cell Atlas.](https://europepmc.org/article/MED/29206104)  
-* Stoeckius M et al, [Simultaneous epitope and transcriptome measurement in single cells.](https://europepmc.org/article/MED/28759029)[NEW]  
+* Stoeckius M et al, [Simultaneous epitope and transcriptome measurement in single cells.](https://europepmc.org/article/MED/28759029)  
 * Ziegenhain C et al, [Comparative Analysis of Single-Cell RNA Sequencing Methods.](https://europepmc.org/article/MED/28212749)  
 
 ### 2016
@@ -197,4 +197,4 @@ Want to contribute a classic that I've missed? Great! Just add classic to a fork
 
 # Last update:
   
-August 20, 2020
+August 27, 2020
